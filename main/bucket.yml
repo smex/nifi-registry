@@ -1,7 +1,8 @@
 flows:
   8279f583-c4d4-4f83-a0d3-425ba0dad930: {ver: 1, file: test.snapshot, comments: '',
     author: anonymous, created: 1671016466821, flowName: test, flowDesc: ''}
-  eeca930c-a205-44d1-a83b-3e1d40831cf0: {ver: 1, file: 123.snapshot, comments: '',
-    author: anonymous, created: 1671089037534, flowName: '123', flowDesc: ''}
+  eeca930c-a205-44d1-a83b-3e1d40831cf0: {ver: 2, file: 123.snapshot, comments: Added
+      "Hello world" message, author: anonymous, created: 1671089165942, flowName: '123',
+    flowDesc: ''}
 layoutVer: 1
 bucketId: 17eed0f1-dcab-4ff7-bd53-5bcf52127618
