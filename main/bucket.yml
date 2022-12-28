@@ -1,6 +1,4 @@
 flows:
-  cdf0bd2c-f739-4f01-a6bf-31286c79c8c0: {ver: 1, file: 123_new.snapshot, comments: sAWEDF,
-    author: anonymous, created: 1671135256513, flowName: 123_new, flowDesc: ''}
   eeca930c-a205-44d1-a83b-3e1d40831cf0: {ver: 3, file: 123.snapshot, comments: Move
       elements, author: anonymous, created: 1671133019355, flowName: '123', flowDesc: ''}
 layoutVer: 1
