@@ -49,8 +49,8 @@
         "name" : "123",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 664.0,
-          "y" : -48.0
+          "x" : 1144.0,
+          "y" : 56.0
         },
         "processGroups" : [ ],
         "processors" : [ {
@@ -149,8 +149,8 @@
           "name" : "LogMessage",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 848.0,
-            "y" : 512.0
+            "x" : 712.0,
+            "y" : 552.0
           },
           "properties" : {
             "log-level" : "info"
